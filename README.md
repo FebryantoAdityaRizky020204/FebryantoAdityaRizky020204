@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FebryantoAdityaRizky020204
-- 👀 I’m interested in New Thins about programming
+- 👀 I’m interested in New Things about programming
 - 🌱 I’m currently learning For Website Developement
 - 💞️ I’m looking to collaborate on [ on future ]
 - 📫 How to reach me [ search my username ]
