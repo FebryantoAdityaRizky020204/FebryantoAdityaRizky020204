@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @FebryantoAdityaRizky020204
-- 👀 I’m interested in New Things about programming
-- 🌱 I’m currently learning For Website Developement
-- 💞️ I’m looking to collaborate on [ on future ]
-- 📫 How to reach me [ search my username ]
-
 <h1 align="center">Hi 👋, I'm Aditya Rizky Febryanto</h1>
 <h3 align="center">Learn Web Development from Indonesia 
 - 👀 I’m interested in New Things about programming</h3>
