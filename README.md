@@ -2,11 +2,9 @@
 	<img src="header.svg" width="800" height="300" alt="Click to see the source">
 </div>
 <h2 align="center">Sampit ⚡ Central Kalimantan ⚡ Indonesia</h2>
-<h3 align="center">Vocational High School 🏫 Software Engineering<h3>
 <h3 align="center">Learn Web Development 💻 I’m interested in New Things about programming</h3>
-	<h4 align="center">🌏🌏🌏🧭🧭🔥🔥🔥🔥🧭🧭🌏🌏🌏</h4>
 <h3 align="center">
-🌱 I’m currently Learning 🌱
+  I’m currently Learning
 </h3>
 
 
