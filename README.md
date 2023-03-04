@@ -1,15 +1,16 @@
 ## ADITYA RIZKY FEBRYANTO
 
 ### Kalimantan Tengah, Indonesia
-<p>
-<h4 style="display=inline; padding=5px">Student at Palangkaraya University </h4>
-<img src="https://www.upr.ac.id/assets/images/foto/1.png" width="50px" />
-<hr />
-</p>
+
+<h4>Student at Palangkaraya University </h4>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left"> 
+  ![GitHub followers](https://img.shields.io/github/followers/FebryantoAdityaRizky020204?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/FebryantoAdityaRizky020204?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=FebryantoAdityaRizky020204.repoName) <img src="https://komarev.com/ghpvc/?username=FebryantoAdityaRizky020204" alt="Febryanto Aditya Rizky" />
+  <br />
   <img src="https://komarev.com/ghpvc/?username=FebryantoAdityaRizky020204&label=Profile%20views&color=0e75b6&style=flat" alt="Febryanto Aditya Rizky" />
 </p>
+<br />
 
 #### Learn
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
