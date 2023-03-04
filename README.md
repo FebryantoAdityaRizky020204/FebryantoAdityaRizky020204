@@ -1,8 +1,8 @@
 ## ADITYA RIZKY FEBRYANTO
 
-###Kalimantan Tengah, Indonesia
+### Kalimantan Tengah, Indonesia
 <h4>Student at Palangkaraya University </h4>
-<img src="[https://www.upr.ac.id/assets/images/logo/0.png](https://www.upr.ac.id/assets/images/foto/1.png)" width="50px" />
+<img src="https://www.upr.ac.id/assets/images/foto/1.png" width="50px" />
 <hr />
 
 <p align="left"> 
@@ -26,9 +26,6 @@
 
 
 <br />
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
 <!---
 FebryantoAdityaRizky020204/FebryantoAdityaRizky020204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
