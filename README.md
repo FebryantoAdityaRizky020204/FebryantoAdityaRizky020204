@@ -8,7 +8,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-1️⃣ Learn
+### [🧠 Learn]
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -23,7 +23,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-2️⃣ My Stats
+### [💾 My Stats]
 
 <img alt="F AR Most Used Languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebryantoAdityaRizky020204&layout=compact&theme=dark&bg_color=0A0A0A" height="192px"/>
 <img alt="F AR Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=FebryantoAdityaRizky020204&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
