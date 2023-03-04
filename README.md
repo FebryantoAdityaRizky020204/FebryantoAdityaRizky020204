@@ -1,9 +1,11 @@
 ## ADITYA RIZKY FEBRYANTO
 
 ### Kalimantan Tengah, Indonesia
-<h4>Student at Palangkaraya University </h4>
+<p>
+<h4 style="display=inline; padding=5px">Student at Palangkaraya University </h4>
 <img src="https://www.upr.ac.id/assets/images/foto/1.png" width="50px" />
 <hr />
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=FebryantoAdityaRizky020204&label=Profile%20views&color=0e75b6&style=flat" alt="Febryanto Aditya Rizky" />
