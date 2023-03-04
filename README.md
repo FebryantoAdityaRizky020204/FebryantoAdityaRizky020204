@@ -24,9 +24,11 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img alt="F AR Github Stats" src="https://github-readme-stats.vercel.app/api/?username=FebryantoAdityaRizky020204&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FebryantoAdityaRizky020204&layout=compact&theme=dark&bg_color=0A0A0A)](https://github.com/FebryantoAdityaRizky020204/github-readme-stats)
 
-<img alt="F AR Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=FebryantoAdityaRizky020204&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="200px" />
+<img alt="F AR Most Used Languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebryantoAdityaRizky020204&layout=compact&theme=dark&bg_color=0A0A0A" height="192px"/>
+(https://github.com/FebryantoAdityaRizky020204/github-readme-stats)
+
+<img alt="F AR Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=FebryantoAdityaRizky020204&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 
 <br />
 
