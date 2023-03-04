@@ -20,9 +20,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br /><br />
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FebryantoAdityaRizky020204&layout=compact&theme=dark&bg_color=0A0A0A)](https://github.com/FebryantoAdityaRizky020204/github-readme-stats)
 
-
+<img alt="Febryanto Aditya Rizky Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/username=FebryantoAdityaRizky020204&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="200px />
 
 <br />
 
