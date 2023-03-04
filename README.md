@@ -2,17 +2,14 @@
 
 ### Kalimantan Tengah, Indonesia
 
-<h4> :NOW: Student at Palangkaraya University </h4>
-
+<h4> ➡️ Student at Palangkaraya University </h4>
 
 ![GitHub followers](https://img.shields.io/github/followers/FebryantoAdityaRizky020204?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/FebryantoAdityaRizky020204?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=FebryantoAdityaRizky020204.repoName) <img src="https://komarev.com/ghpvc/?username=FebryantoAdityaRizky020204" alt="Febryanto Aditya Rizky" />
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<br />
+1️⃣ Learn
 
-### :one: Learn
-<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -24,12 +21,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br />
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-### :second: My Stats
+
+2️⃣ My Stats
 
 <img alt="F AR Most Used Languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebryantoAdityaRizky020204&layout=compact&theme=dark&bg_color=0A0A0A" height="192px"/>
-
 <img alt="F AR Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=FebryantoAdityaRizky020204&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 
 <br />
