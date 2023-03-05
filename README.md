@@ -1,6 +1,6 @@
 ## ADITYA RIZKY FEBRYANTO
 
-### Kalimantan Tengah, Indonesia
+### Kalimantan Tengah[Central Borneo], [🇮🇩 ```Indonesia```]
 
 <h4> ➡️ Student at Palangkaraya University </h4>
 
