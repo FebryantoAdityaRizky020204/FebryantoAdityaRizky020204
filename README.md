@@ -4,7 +4,7 @@
 
 <h4> ➡️ Student at Palangkaraya University </h4>
 
-![GitHub followers](https://img.shields.io/github/followers/FebryantoAdityaRizky020204?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=FebryantoAdityaRizky020204.repoName) <img src="https://komarev.com/ghpvc/?username=FebryantoAdityaRizky020204" alt="Febryanto Aditya Rizky" />
+![GitHub followers](https://img.shields.io/github/followers/FebryantoAdityaRizky020204?style=social) ![GitHub following](https://img.shields.io/github/following/FebryantoAdityaRizky020204?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=FebryantoAdityaRizky020204.repoName) <img src="https://komarev.com/ghpvc/?username=FebryantoAdityaRizky020204" alt="Febryanto Aditya Rizky" />
 
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
