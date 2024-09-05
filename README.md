@@ -26,7 +26,6 @@
 ### [💾 My Stats]
 
 <img alt="F AR Most Used Languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebryantoAdityaRizky020204&layout=compact&theme=dark&bg_color=0A0A0A" height="192px"/>
-<img alt="F AR Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=FebryantoAdityaRizky020204&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 
 <br />
 
