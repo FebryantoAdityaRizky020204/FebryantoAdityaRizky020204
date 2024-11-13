@@ -23,6 +23,17 @@
 
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+### [💾 My Rule Commit : Hopefully ]
+<h6> ➡️ First: `comment </h6>
+<h6> ➡️ Add: `comment </h6>
+<h6> ➡️ Change: `comment </h6>
+<h6> ➡️ Move: `comment </h6>
+<h6> ➡️ Delete: `comment </h6>
+<h6> ➡️ Other: `comment </h6>
+<h6> ➡️ SOME [?|?]: `comment </h6>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ### [💾 My Stats]
 
 <img alt="F AR Most Used Languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebryantoAdityaRizky020204&layout=compact&theme=dark&bg_color=0A0A0A" height="192px"/>
